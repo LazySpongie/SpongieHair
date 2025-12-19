@@ -1,0 +1,56 @@
+version=1
+id=2463184726
+title=Spongie's Hair
+description=[h1]Update 19/12/24[/h1]
+description=Updated to B42
+description=9 new hairstyles:
+description=		Added Over Eye Shaggy
+description=		Added Power
+description=		Added Power Tied 
+description=		Added Zarina
+description=		Added Zarina Curly
+description=		Added Vi
+description=		
+description=		Remade Scruffy Greased Back
+description=		Remade Yeager Bun
+description=		
+description=		Updated Grimes
+description=		Updated Fool XXI
+description=		Renamed Helmet back to Rei
+description=		Fixed hole in Surfer male
+description=		Fixed clipping in Redfield Messy male
+description=		Fixed hole in Rei
+description=		Fixed hole in Empress
+description=		
+description=		Updated zombie spawns
+description=
+description=[hr]
+description=[h1]REQUIRES THE MOD [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2447729538]FLUFFY HAIR[/url].[/h1]
+description=
+description=
+description=[h2]This mod adds a lot of hairstyles so it's highly recommended that you use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2732662310]Improved Hair Menu[/url][/h2]
+description=
+description=[hr]
+description=[h1]To unlock all hairstyles with scissors in-game use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3041733782] Spongie's Hair API[/url][/h1] This mod also optionally uses its features if it is enabled (some hairstyles require hair gel).
+description=
+description=[hr]
+description=[h3]Supports B41.78+. Works in multiplayer[/h3]
+description=Adds 69 new hairstyles for both body types. Immersion breaking hairstyles don't spawn on zombies.
+description=
+description=[h1]Full hairstyle list is in the pinned discussion below[/h1]
+description=
+description=[hr]
+description=It's fine to use and edit my mods and assets as long as you can credit me.
+description=
+description=[h3]Supported Translations[/h3]
+description=RU - KonstantinLirin
+description=CH - kyo2002tw
+description=
+description=[hr]
+description=[h3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2721464487]I also have a guide on hair modding linked here[/url][/h3]
+description=
+description=[hr]
+description=[h3]Also check out these other mods:[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2732662310][img]https://steamuserimages-a.akamaihd.net/ugc/1829026203560779627/5E8062F3D9436CFE2462DD64024CF8BC7C603969/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2761200458][img]https://steamuserimages-a.akamaihd.net/ugc/1809894273638294253/C309A1B48537960CF345B18592C67D08881E2A8C/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2787539183][img]https://steamuserimages-a.akamaihd.net/ugc/1807639805626343460/A4AD89A555980EC808F455C3F1E1ADA877DE85BA/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[/img][/url]
+tags=Build 41;Build 42;Misc;Models;Multiplayer;Pop Culture;Realistic
+visibility=public

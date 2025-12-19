@@ -1,0 +1,8 @@
+name=Spongie's Hair
+id=SpnHair
+author=Spongie
+poster=poster.png
+icon=icon.png
+description=Adds new hairstyles
+modversion=29
+require=\FH
