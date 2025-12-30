@@ -80,6 +80,7 @@ IGUI_EN = {
     IGUI_Hair_M_ZarinaCurly = "Zarina (Curly)",
     IGUI_Hair_M_Vi = "Vi",
     IGUI_Hair_M_Frank = "Frank",
+    IGUI_Hair_M_Taurie = "Taurie",
 	
 
 
@@ -164,6 +165,7 @@ IGUI_EN = {
     IGUI_Hair_F_ZarinaCurly = "Zarina (Curly)",
     IGUI_Hair_F_Vi = "Vi",
     IGUI_Hair_F_Frank = "Frank",
+    IGUI_Hair_F_Taurie = "Taurie",
 	
 	
 	

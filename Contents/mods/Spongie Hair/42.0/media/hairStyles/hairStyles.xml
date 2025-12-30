@@ -975,6 +975,19 @@
 		<alternate category="Group06" style="Bound" />
 		<level>1</level>
 	</male>
+	<male><name>M_Taurie</name>
+		<model>skinned\hair\M_Taurie</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="M_TaurieG1" />
+		<alternate category="Group01" style="M_TaurieG1" />
+		<alternate category="Group02" style="M_Taurie" />
+		<alternate category="Group03" style="M_TaurieG3" />
+		<alternate category="Group04" style="M_TaurieG3" />
+		<alternate category="Group05" style="M_Taurie" />
+		<alternate category="Group06" style="Bound" />
+		<level>3</level>
+	</male>
+	
 	
 	
 	
@@ -1944,6 +1957,19 @@
 		<alternate category="Group06" style="Bound" />
 		<level>1</level>
 	</female>
+	<female><name>F_Taurie</name>
+		<model>skinned\hair\F_Taurie</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_TaurieG1" />
+		<alternate category="Group01" style="F_TaurieG1" />
+		<alternate category="Group02" style="F_Taurie" />
+		<alternate category="Group03" style="F_TaurieG3" />
+		<alternate category="Group04" style="F_TaurieG3" />
+		<alternate category="Group05" style="F_Taurie" />
+		<alternate category="Group06" style="Bound" />
+		<level>3</level>
+	</female>
+	
 	
 	
 	
@@ -2997,6 +3023,26 @@
 		<noChoose>true</noChoose>
 	</male>
 	
+	<female><name>F_TaurieG1</name>
+		<model>skinned\hair\F_TaurieG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>
+	<female><name>F_TaurieG3</name>
+		<model>skinned\hair\F_TaurieG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>
+	<male><name>M_TaurieG1</name>
+		<model>skinned\hair\M_ViG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>
+	<male><name>M_TaurieG3</name>
+		<model>skinned\hair\M_ViG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>
 	
 	
 	
