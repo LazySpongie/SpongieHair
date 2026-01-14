@@ -266,6 +266,8 @@ IGUI_EN = {
     IGUI_Hair_M_PowerTiedG1 = "",
     IGUI_Hair_M_ZarinaG1 = "",
     IGUI_Hair_M_ViG1 = "",
+    IGUI_Hair_M_TaurieG1 = "",
+    IGUI_Hair_M_TaurieG3 = "",
 	
 
 
@@ -361,5 +363,7 @@ IGUI_EN = {
     IGUI_Hair_F_PowerTiedG1 = "",
     IGUI_Hair_F_ZarinaG1 = "",
     IGUI_Hair_F_ViG1 = "",
+    IGUI_Hair_F_TaurieG1 = "",
+    IGUI_Hair_F_TaurieG3 = "",
 	
 }

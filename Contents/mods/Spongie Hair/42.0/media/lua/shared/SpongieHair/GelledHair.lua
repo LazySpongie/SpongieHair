@@ -2,9 +2,9 @@
 local API_ENABLED = getActivatedMods():contains("\\SpnHairAPI")
 if not API_ENABLED then return end
 
-print("SpongieHair using SpongieHairAPI")
+-- print("SpongieHair using SpongieHairUnlocker")
 
-local SpongieHairAPI = require("SpongieHairAPI")
+local SpongieHairAPI = require("SpongieHairUnlocker/SpongieHairAPI")
 
 local hairs = {
 	{name = "M_Vergil", flatHair = "M_Dante", hairGel = true, hairSpray = true},

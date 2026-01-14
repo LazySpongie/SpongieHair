@@ -110,9 +110,12 @@ local list = {
 	},
 }
 
+local HairOutfitDefinitions_haircutDefinition = HairOutfitDefinitions.haircutDefinition
+local table_insert = table.insert
 for outfit, hairs in pairs(list) do
 	for i, hair in ipairs(hairs) do
-		local cat = {name = hair, onlyFor = outfit};
-		table.insert(HairOutfitDefinitions.haircutDefinition, cat);
+		local cat = {name = hair, onlyFor = outfit}
+		table_insert(HairOutfitDefinitions_haircutDefinition, cat)
 	end
 end
+list = nil

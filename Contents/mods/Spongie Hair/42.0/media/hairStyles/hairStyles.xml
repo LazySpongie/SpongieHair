@@ -980,9 +980,9 @@
 		<texture>F_Hair_White</texture>
 		<alternate category="default" style="M_TaurieG1" />
 		<alternate category="Group01" style="M_TaurieG1" />
-		<alternate category="Group02" style="M_Taurie" />
+		<alternate category="Group02" style="M_TaurieG1" />
 		<alternate category="Group03" style="M_TaurieG3" />
-		<alternate category="Group04" style="M_TaurieG3" />
+		<alternate category="Group04" style="M_TaurieG1" />
 		<alternate category="Group05" style="M_Taurie" />
 		<alternate category="Group06" style="Bound" />
 		<level>3</level>
@@ -1659,7 +1659,7 @@
 		<alternate category="Group01" style="F_RedfieldLowG1" />
 		<alternate category="Group02" style="F_RedfieldLowG1" />
 		<alternate category="Group03" style="F_RedfieldLowG4" />
-		<alternate category="Group04" style="F_RedfieldLowG4" />
+		<alternate category="Group04" style="F_RedfieldLowG1" />
 		<alternate category="Group05" style="F_RedfieldLow" />
 		<alternate category="Group06" style="Bound" />
 		<level>3</level>
@@ -1805,7 +1805,7 @@
 		<alternate category="Group01" style="F_JeanetteG1" />
 		<alternate category="Group02" style="F_JeanetteG2" />
 		<alternate category="Group03" style="F_CurtainsG1" />
-		<alternate category="Group04" style="F_CurtainsG1" />
+		<alternate category="Group04" style="F_JeanetteG1" />
 		<alternate category="Group05" style="F_Jeanette" />
 		<alternate category="Group06" style="Bound" />
 		<level>3</level>
@@ -1843,7 +1843,7 @@
 		<alternate category="Group01" style="F_BobSlickG1" />
 		<alternate category="Group02" style="F_BobSlickG1" />
 		<alternate category="Group03" style="Bald" />
-		<alternate category="Group04" style="Hat" />
+		<alternate category="Group04" style="F_BobSlickG1" />
 		<alternate category="Group05" style="F_BobSlick" />
 		<alternate category="Group06" style="Bound" />
 		<level>2</level>
@@ -1855,7 +1855,7 @@
 		<alternate category="Group01" style="F_AshleyG1" />
 		<alternate category="Group02" style="F_AshleyG1" />
 		<alternate category="Group03" style="OverEyeLeftG3Hat" />
-		<alternate category="Group04" style="Hat" />
+		<alternate category="Group04" style="F_AshleyG1" />
 		<alternate category="Group05" style="F_Ashley" />
 		<alternate category="Group06" style="Bound" />
 		<level>2</level>
@@ -1962,9 +1962,9 @@
 		<texture>F_Hair_White</texture>
 		<alternate category="default" style="F_TaurieG1" />
 		<alternate category="Group01" style="F_TaurieG1" />
-		<alternate category="Group02" style="F_Taurie" />
+		<alternate category="Group02" style="F_TaurieG1" />
 		<alternate category="Group03" style="F_TaurieG3" />
-		<alternate category="Group04" style="F_TaurieG3" />
+		<alternate category="Group04" style="F_TaurieG1" />
 		<alternate category="Group05" style="F_Taurie" />
 		<alternate category="Group06" style="Bound" />
 		<level>3</level>
@@ -2798,7 +2798,7 @@
 	</female>
 	<female>
 		<name>F_ToukaG4</name>
-		<model>skinned/hair/F_ToukaG1</model>
+		<model>skinned/hair/F_ToukaG4</model>
 		<texture>F_Hair_White</texture>
 		<noChoose>true</noChoose>
 	</female>
@@ -3034,12 +3034,12 @@
 		<noChoose>true</noChoose>
 	</female>
 	<male><name>M_TaurieG1</name>
-		<model>skinned\hair\M_ViG1</model>
+		<model>skinned\hair\M_TaurieG1</model>
 		<texture>F_Hair_White</texture>
 		<noChoose>true</noChoose>
 	</male>
 	<male><name>M_TaurieG3</name>
-		<model>skinned\hair\M_ViG3</model>
+		<model>skinned\hair\M_TaurieG3</model>
 		<texture>F_Hair_White</texture>
 		<noChoose>true</noChoose>
 	</male>
