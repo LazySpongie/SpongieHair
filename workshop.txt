@@ -2,12 +2,14 @@ version=1
 id=2463184726
 title=Spongie's Hair
 description=[quote]
+description=[h1][b]RESUBSCRIBE TO THE MOD BEFORE COMMENTING THAT IT DOESN'T WORK[/b][/h1]
+description=
 description=[h1]Supports B41 and B42. Works in multiplayer[/h1]
 description=[h2][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3626421014]B41 USERS SWITCH TO THE B41 LEGACY VERSION HERE. I WILL REMOVE THE B41 FILES FROM THE MAIN MOD WHEN STABLE RELEASES[/url][/h2]
 description=[/quote]
 description=
 description=[quote]
-description=[h1]Adds 78 new hairstyles for both body types[/h1]
+description=[h1]Adds 80 new hairstyles for both body types[/h1]
 description=[b]Immersion breaking hairstyles don't spawn on zombies[/b]
 description=
 description=[h2]Full hairstyle list is in the preview images above and the pinned discussion below[/h2]
@@ -41,6 +43,7 @@ description=[url=https://ko-fi.com/lazyspongie]Support me on Ko-Fi[/url]
 description=
 description=
 description=This mod is open source so you can do whatever you want with it.
+description=
 description=
 tags=Build 41;Build 42;Misc;Models;Multiplayer;Pop Culture;Realistic
 visibility=public
