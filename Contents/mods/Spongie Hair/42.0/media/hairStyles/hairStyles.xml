@@ -987,6 +987,19 @@
 		<alternate category="Group06" style="Bound" />
 		<level>3</level>
 	</male>
+	<male><name>M_Rita</name>
+		<model>skinned\hair\M_Rita</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="M_AshleyG1" />
+		<alternate category="Group01" style="M_AshleyG1" />
+		<alternate category="Group02" style="M_AshleyG1" />
+		<alternate category="Group03" style="M_AshleyG4" />
+		<alternate category="Group04" style="M_AshleyG4" />
+		<alternate category="Group05" style="M_Rita" />
+		<alternate category="Group06" style="Bound" />
+		<level>2</level>
+	</male>
+	
 	
 	
 	
@@ -1968,6 +1981,18 @@
 		<alternate category="Group05" style="F_Taurie" />
 		<alternate category="Group06" style="Bound" />
 		<level>3</level>
+	</female>
+	<female><name>F_Rita</name>
+		<model>skinned\hair\F_Rita</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_AshleyG1" />
+		<alternate category="Group01" style="F_AshleyG1" />
+		<alternate category="Group02" style="F_AshleyG1" />
+		<alternate category="Group03" style="F_AshleyG4" />
+		<alternate category="Group04" style="F_AshleyG4" />
+		<alternate category="Group05" style="F_Rita" />
+		<alternate category="Group06" style="Bound" />
+		<level>2</level>
 	</female>
 	
 	

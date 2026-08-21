@@ -107,6 +107,7 @@ local list = {
 		"M_PowerTied",
 		"M_Zarina",
 		"M_ZarinaCurly",
+		"M_Rita",
 	},
 }
 
