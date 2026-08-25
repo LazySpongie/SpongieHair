@@ -884,7 +884,7 @@
 		<alternate category="default" style="M_OvereyeShaggyLeftG1" />
 		<alternate category="Group01" style="M_OvereyeShaggyLeftG1" />
 		<alternate category="Group02" style="M_OvereyeShaggyLeftG1" />
-		<alternate category="Group03" style="F_MitsuruPonytailG1" />
+		<alternate category="Group03" style="M_MitsuruPonytailG1" />
 		<alternate category="Group04" style="M_OvereyeShaggyLeftG1" />
 		<alternate category="Group05" style="M_OvereyeShaggyLeft" />
 		<alternate category="Group06" style="Bound" />
@@ -896,7 +896,7 @@
 		<alternate category="default" style="M_OvereyeShaggyLeftG1" />
 		<alternate category="Group01" style="M_OvereyeShaggyLeftG1" />
 		<alternate category="Group02" style="M_OvereyeShaggyLeftG1" />
-		<alternate category="Group03" style="F_MitsuruPonytailG1" />
+		<alternate category="Group03" style="M_MitsuruPonytailG1" />
 		<alternate category="Group04" style="M_OvereyeShaggyLeftG1" />
 		<alternate category="Group05" style="M_OvereyeShaggyLeftG1" />
 		<alternate category="Group06" style="Bound" />
@@ -996,6 +996,18 @@
 		<alternate category="Group03" style="M_AshleyG4" />
 		<alternate category="Group04" style="M_AshleyG4" />
 		<alternate category="Group05" style="M_Rita" />
+		<alternate category="Group06" style="Bound" />
+		<level>2</level>
+	</male>
+	<male><name>M_BobPoofy</name>
+		<model>skinned\hair\M_BobPoofy</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="M_BobPoofy" />
+		<alternate category="Group01" style="M_BobPoofyG1" />
+		<alternate category="Group02" style="M_BobPoofyG1" />
+		<alternate category="Group03" style="M_KusanagiG1" />
+		<alternate category="Group04" style="M_KusanagiG1" />
+		<alternate category="Group05" style="M_BobPoofy" />
 		<alternate category="Group06" style="Bound" />
 		<level>2</level>
 	</male>
@@ -1897,6 +1909,30 @@
 		<alternate category="Group06" style="Bound" />
 		<level>2</level>
 	</female>
+	<female><name>F_OvereyeShaggyLeft</name>
+		<model>skinned\hair\F_OvereyeShaggyLeft</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_OvereyeShaggyLeftG1" />
+		<alternate category="Group01" style="F_OvereyeShaggyLeftG1" />
+		<alternate category="Group02" style="F_OvereyeShaggyLeftG1" />
+		<alternate category="Group03" style="F_MitsuruPonytailG1" />
+		<alternate category="Group04" style="F_OvereyeShaggyLeftG1" />
+		<alternate category="Group05" style="F_OvereyeShaggyLeft" />
+		<alternate category="Group06" style="Bound" />
+		<level>2</level>
+	</female>
+	<female><name>F_OvereyeShaggyLeftG1</name>
+		<model>skinned\hair\F_OvereyeShaggyLeftG1</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_OvereyeShaggyLeftG1" />
+		<alternate category="Group01" style="F_OvereyeShaggyLeftG1" />
+		<alternate category="Group02" style="F_OvereyeShaggyLeftG1" />
+		<alternate category="Group03" style="F_MitsuruPonytailG1" />
+		<alternate category="Group04" style="F_OvereyeShaggyLeftG1" />
+		<alternate category="Group05" style="F_OvereyeShaggyLeftG1" />
+		<alternate category="Group06" style="Bound" />
+		<level>2</level>
+	</female>
 	<female><name>F_Power</name>
 		<model>skinned\hair\F_Power</model>
 		<texture>F_Hair_White</texture>
@@ -1994,6 +2030,19 @@
 		<alternate category="Group06" style="Bound" />
 		<level>2</level>
 	</female>
+	<female><name>F_BobPoofy</name>
+		<model>skinned\hair\F_BobPoofy</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_BobPoofy" />
+		<alternate category="Group01" style="F_BobPoofyG1" />
+		<alternate category="Group02" style="F_BobPoofyG1" />
+		<alternate category="Group03" style="F_KusanagiG1" />
+		<alternate category="Group04" style="F_KusanagiG1" />
+		<alternate category="Group05" style="F_BobPoofy" />
+		<alternate category="Group06" style="Bound" />
+		<level>2</level>
+	</female>
+	
 	
 	
 	
@@ -3068,6 +3117,14 @@
 		<texture>F_Hair_White</texture>
 		<noChoose>true</noChoose>
 	</male>
+	
+
+	<female><name>F_BobPoofyG1</name>
+		<model>skinned\hair\F_BobPoofyG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>
+	
 	
 	
 	

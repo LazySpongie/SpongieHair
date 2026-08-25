@@ -81,6 +81,7 @@
     "IGUI_Hair_M_Frank": "Frank",
     "IGUI_Hair_M_Taurie": "Taurie",
     "IGUI_Hair_M_Rita": "Rita",
+    "IGUI_Hair_M_BobPoofy": "Poofy Bob",
 
 
 
@@ -166,6 +167,7 @@
     "IGUI_Hair_F_Frank": "Frank",
     "IGUI_Hair_F_Taurie": "Taurie",
     "IGUI_Hair_F_Rita": "Rita",
+    "IGUI_Hair_F_BobPoofy": "Poofy Bob",
 
 
 
@@ -263,6 +265,9 @@
     "IGUI_Hair_M_ViG1": "",
     "IGUI_Hair_M_TaurieG1": "",
     "IGUI_Hair_M_TaurieG3": "",
+    "IGUI_Hair_M_BobPoofyG1": "",
+    "IGUI_Hair_M_BobPoofyG4": "",
+
     "IGUI_Hair_F_AigisG1": "",
     "IGUI_Hair_F_AigisG4": "",
     "IGUI_Hair_F_AigisAltG1": "",
@@ -355,5 +360,7 @@
     "IGUI_Hair_F_ZarinaG1": "",
     "IGUI_Hair_F_ViG1": "",
     "IGUI_Hair_F_TaurieG1": "",
-    "IGUI_Hair_F_TaurieG3": ""
+    "IGUI_Hair_F_TaurieG3": "",
+    "IGUI_Hair_F_BobPoofyG1": "",
+    "IGUI_Hair_F_BobPoofyG4": ""
 }
