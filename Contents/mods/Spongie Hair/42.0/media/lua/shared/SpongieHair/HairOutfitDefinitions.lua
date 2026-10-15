@@ -108,6 +108,7 @@ local list = {
 		"M_Zarina",
 		"M_ZarinaCurly",
 		"M_Rita",
+		"M_PoofyBob",
 	},
 }
 

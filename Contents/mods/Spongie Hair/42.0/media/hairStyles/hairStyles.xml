@@ -1302,7 +1302,7 @@
 		<level>2</level>
 	</female>
 	<female><name>F_Vergil</name>
-		<model>skinned\hair\M_Vergil</model>
+		<model>skinned\hair\F_Vergil</model>
 		<texture>F_Hair_White</texture>
 		<alternate category="default" style="F_DanteG1" />
 		<alternate category="Group01" style="F_DanteG1" />
